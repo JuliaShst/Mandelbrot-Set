@@ -4,7 +4,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img style="display:block;margin:0 auto;" src="screenshots/no-zoom.png" alt="project-screenshot" width="400" height="400/">
+<p align="center" width="100%">
+    <img width="100%" src="screenshots/no-zoom.png" alt="project-screenshot"> 
+</p>
 
 <p align="center" width="100%">
     <img width="45%" src="screenshots/1-zoom.png" alt="project-screenshot"> 
