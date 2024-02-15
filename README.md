@@ -44,7 +44,3 @@ python mandelbrot-fractal-complete.py
 ```
 
   
-python mandelbrot-fractal-complete.py
-```
-
-  
