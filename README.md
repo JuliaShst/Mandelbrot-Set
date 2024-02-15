@@ -13,9 +13,6 @@
 <img src="screenshots/3-zoom.png" alt="project-screenshot" width="400" height="400/">
 
 <img src="screenshots/4-zoom.png" alt="project-screenshot" width="400" height="400/">
-
-<img src="" alt="project-screenshot" width="400" height="400/">
-
   
   
 <h2>🧐 Features</h2>
