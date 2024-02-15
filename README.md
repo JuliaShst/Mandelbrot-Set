@@ -14,8 +14,8 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="45%" src="screenshots/3-zoom.png" alt="project-screenshot" width="400" height="400/"> 
-    <img width="45%" src="screenshots/4-zoom.png" alt="project-screenshot" width="400" height="400/"> 
+    <img width="45%" src="screenshots/3-zoom.png" alt="project-screenshot"> 
+    <img width="45%" src="screenshots/4-zoom.png" alt="project-screenshot"> 
 </p>
 
    
