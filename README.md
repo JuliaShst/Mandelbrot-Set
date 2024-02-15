@@ -6,15 +6,17 @@
 
 <img src="screenshots/no-zoom.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="screenshots/1-zoom.png" alt="project-screenshot" width="400" height="400/">
+<p align="center" width="100%">
+    <img width="50%" src="screenshots/1-zoom.png" alt="project-screenshot" width="400" height="400/"> 
+    <img width="50%" src="screenshots/2-zoom.png" alt="project-screenshot" width="400" height="400/"> 
+</p>
 
-<img src="screenshots/2-zoom.png" alt="project-screenshot" width="400" height="400/">
+<p align="center" width="100%">
+    <img width="50%" src="screenshots/3-zoom.png" alt="project-screenshot" width="400" height="400/"> 
+    <img width="50%" src="screenshots/4-zoom.png" alt="project-screenshot" width="400" height="400/"> 
+</p>
 
-<img src="screenshots/3-zoom.png" alt="project-screenshot" width="400" height="400/">
-
-<img src="screenshots/4-zoom.png" alt="project-screenshot" width="400" height="400/">
-  
-  
+   
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
@@ -34,6 +36,10 @@ git clone https://github.com/JuliaShst/Mandelbrot-Set
 <p>2. Run script</p>
 
 ```
+python mandelbrot-fractal-complete.py
+```
+
+  
 python mandelbrot-fractal-complete.py
 ```
 
